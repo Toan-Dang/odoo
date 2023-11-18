@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <menuitem name="Feedback"
+        id="menu_feedback_root"
+        sequence="10"
+    />
+    <menuitem name="Operation"
+        id="menu_feedback_operation"
+        parent="menu_feedback_root"
+        sequence="10"
+    />
+
+</odoo>
